@@ -11,7 +11,7 @@ public class PrintName {
 		name = personName;
 		age = personAge;
 		gender = personGender;
-		//Hello
+		//Hello there
 	}
 	
 	public void printPersonDetails(PrintName x){
